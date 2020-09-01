@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋, I'm Roger
+
+I'm a Full Stack Developer, amazed by JavaScript enviroment, ReactJS, React Native and Node.js.
+
+- 📫 How to reach me: roger.lm.mr@gmail.com
 
 <!--
 **rogeraugusto/rogeraugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
