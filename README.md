@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Roger
 
-I'm a Full Stack Developer, amazed by JavaScript enviroment, ReactJS, React Native and Node.js.
+I'm a Full Stack Developer, amazed by JavaScript enviroment, TypeScript, Next.js, React Native and Node.js.
 
 - 📫 How to reach me: roger.lm.mr@gmail.com
 
