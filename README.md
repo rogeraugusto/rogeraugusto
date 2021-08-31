@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Roger
 
-I'm a Full Stack Developer, amazed by JavaScript enviroment, TypeScript, React Native and Node.js.
+I'm a Full Stack Developer, amazed by JavaScript environment, TypeScript, React Native and Node.js.
 
 - 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeraugustomoraes/)](https://www.linkedin.com/in/rogeraugustomoraes/)
